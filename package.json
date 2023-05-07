@@ -1,0 +1,25 @@
+{
+  "name": "eta-cli",
+  "version": "1.0.0",
+  "description": "这是一个最佳实践前后端工程模板初始化命令行工具.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:EtaDevelopers/eta-cli.git"
+  },
+  "keywords": [
+    "eta-cli",
+    "eta-web-template",
+    "eta-wap-template",
+    "etajs"
+  ],
+  "author": "zhus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EtaDevelopers/eta-cli/issues"
+  },
+  "homepage": "https://github.com/EtaDevelopers/eta-cli#readme"
+}
